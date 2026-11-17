@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">skillz — A little know-how. A lot of possibility.</title>
+<desc id="desc">The AI Anonymous skill collection by JABSystems. A field-note page becomes a folded paper plane: written knowledge put to work. Agent Skills, packaged as Claude plugins.</desc>
+<rect x="0" y="0" width="1280" height="480" fill="#191510"/>
+<polyline points="62,68 76,31 90,68" fill="none" stroke="#F3E9DC" stroke-width="3.5" stroke-linejoin="round"/>
+<polyline points="67.5,54 84.5,54" fill="none" stroke="#F3E9DC" stroke-width="3.5" stroke-linejoin="round"/>
+<polyline points="87,68 102,31 116,68" fill="none" stroke="#F3E9DC" stroke-width="3.5" stroke-linejoin="round"/>
+<polyline points="93.5,54 110.5,54" fill="none" stroke="#F3E9DC" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="135" y="45" fill="#F3E9DC" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" font-weight="700">AI ANONYMOUS</text>
+<text x="135" y="67" fill="#C5B29E" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">THE SKILL COLLECTION</text>
+<g transform="translate(1095 30) scale(.33)" fill="none" stroke="#F3E9DC" stroke-width="13" stroke-linejoin="miter"><path d="M22 6.5 H62 M55.5 6.5 V72 A24 24 0 0 1 7.5 72"/><path transform="translate(87 0)" fill="#F3E9DC" stroke="none" d="M48 -4 L96 100 L81 100 L48 28.5 L15 100 L0 100 Z"/><path transform="translate(207 0)" d="M6.5 0 V100 M6.5 6.5 H30 A20 20 0 0 1 30 46.5 H6.5 M6.5 46.5 H34 A23.5 23.5 0 0 1 34 93.5 H6.5"/><rect x="300" y="0" width="13" height="100" fill="#D4A36D" stroke="none"/></g>
+<polyline points="1102.26,32.145 1115.46,32.145" fill="none" stroke="#F3E9DC" stroke-width="4.29" stroke-linejoin="round"/>
+<polyline points="1113.315,32.145 1113.315,53.760000000000005 1113.315,53.760000000000005 1113.2472433020805,54.793767442382816 1113.0451325442095,55.809846837211964 1112.7121258974894,56.79085278433151 1112.2539211979727,57.72 1111.6783584551065,58.58139051774907 1110.9952857069975,59.36028570699746 1110.216390517749,60.043358455106585 1109.355,60.61892119797275 1108.4258527843315,61.077125897489395 1107.444846837212,61.41013254420942 1106.4287674423829,61.61224330208058 1105.395,61.68 1104.361232557617,61.61224330208058 1103.345153162788,61.41013254420942 1102.3641472156685,61.077125897489395 1101.435,60.61892119797275 1100.573609482251,60.043358455106585 1099.7947142930025,59.36028570699746 1099.1116415448935,58.58139051774907 1098.5360788020273,57.72 1098.0778741025106,56.79085278433152 1097.7448674557907,55.809846837211964 1097.5427566979195,54.793767442382816 1097.475,53.760000000000005" fill="none" stroke="#F3E9DC" stroke-width="4.29" stroke-linejoin="round"/>
+<polygon points="1139.55,28.68 1155.39,63.0 1150.44,63.0 1139.55,39.405 1128.66,63.0 1123.71,63.0" fill="#F3E9DC"/>
+<polyline points="1165.455,30.0 1165.455,63.0" fill="none" stroke="#F3E9DC" stroke-width="4.29" stroke-linejoin="round"/>
+<polyline points="1165.455,32.145 1173.21,32.145 1173.21,32.145 1174.0714728686523,32.20146391493285 1174.9182056976767,32.369889546492146 1175.7357106536097,32.64739508542551 1176.51,33.029232335022705 1177.2278254314576,33.50886795407785 1177.8769047558312,34.078095244168786 1178.4461320459222,34.727174568542445 1178.9257676649772,35.445 1179.3076049145745,36.21928934639041 1179.585110453508,37.036794302323365 1179.7535360850673,37.88352713134766 1179.81,38.745000000000005 1179.7535360850673,39.60647286865234 1179.585110453508,40.45320569767664 1179.3076049145745,41.27071065360959 1178.9257676649772,42.045 1178.4461320459222,42.76282543145756 1177.8769047558312,43.411904755831216 1177.2278254314576,43.98113204592215 1176.51,44.4607676649773 1175.7357106536097,44.842604914574494 1174.9182056976767,45.12011045350785 1174.0714728686523,45.28853608506715 1173.21,45.345 1165.455,45.345" fill="none" stroke="#F3E9DC" stroke-width="4.29" stroke-linejoin="round"/>
+<polyline points="1165.455,45.345 1174.53,45.345 1174.53,45.345 1175.5422306206665,45.4113451000461 1176.53714169477,45.609245217128276 1177.4977100179913,45.935314225374974 1178.4075,46.38397299365168 1179.2509448819626,46.94754484604147 1180.0136130881017,47.616386911898324 1180.6824551539585,48.37905511803737 1181.2460270063484,49.2225 1181.694685774625,50.13228998200873 1182.0207547828718,51.09285830522995 1182.218654899954,52.0877693793335 1182.285,53.1 1182.218654899954,54.1122306206665 1182.0207547828718,55.10714169477005 1181.694685774625,56.067710017991274 1181.2460270063484,56.977500000000006 1180.6824551539585,57.82094488196263 1180.0136130881017,58.58361308810168 1179.2509448819626,59.25245515395852 1178.4075,59.81602700634833 1177.4977100179913,60.26468577462503 1176.53714169477,60.59075478287173 1175.5422306206665,60.7886548999539 1174.53,60.855000000000004 1165.455,60.855000000000004" fill="none" stroke="#F3E9DC" stroke-width="4.29" stroke-linejoin="round"/>
+<rect x="1194" y="30" width="4.29" height="33" fill="#D4A36D"/>
+<text x="1095" y="81" fill="#C5B29E" font-family="Consolas, monospace" font-size="11" letter-spacing="1">JABSYSTEMS</text>
+<polyline points="62,100 1218,100" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<text x="57" y="263" fill="#F3E9DC" font-family="Georgia, serif" font-size="172" letter-spacing="-7">skillz</text>
+<rect x="441" y="239" width="16" height="23" fill="#D4A36D"/>
+<text x="64" y="320" fill="#F3E9DC" font-family="Arial, Helvetica, sans-serif" font-size="38" letter-spacing="-0.7">A little know-how.</text>
+<text x="61" y="369" fill="#D4A36D" font-family="Georgia, serif" font-size="43" letter-spacing="-1" font-style="italic">A lot of possibility.</text>
+<polyline points="714,134 735,134" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<polyline points="714,134 714,155" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<polyline points="1218,371 1197,371" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<polyline points="1218,371 1218,350" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="786,186 967,173 1002,347 821,369" fill="#251E17"/>
+<polygon points="774,176 951,164 987,337 811,357" fill="#32281F"/>
+<polyline points="774,176 951,164 987,337 811,357 774,176" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<text x="801" y="211" fill="#F3E9DC" font-family="Consolas, monospace" font-size="19" letter-spacing="0">SKILL.md</text>
+<polyline points="802,227 933,216" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<polyline points="810.0,250 938,240" fill="none" stroke="#C5B29E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="813.6,268 921,258" fill="none" stroke="#C5B29E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="817.2,286 945,276" fill="none" stroke="#C5B29E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="820.8,304 911,294" fill="none" stroke="#C5B29E" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="852,283 1182,137 1063,319 1014,258" fill="#D4A36D"/>
+<polygon points="852,283 1182,137 1014,258" fill="#805B39"/>
+<polygon points="917,198 1182,137 1014,258" fill="#32281F"/>
+<polygon points="1014,258 1182,137 1034,279" fill="#251E17"/>
+<polyline points="917,198 1182,137 1063,319 1014,258 917,198" fill="none" stroke="#D4A36D" stroke-width="1.4" stroke-linejoin="round"/>
+<polyline points="1014,258 1182,137" fill="none" stroke="#D4A36D" stroke-width="1" stroke-linejoin="round"/>
+<text x="1085" y="359" fill="#C5B29E" font-family="Consolas, monospace" font-size="12" letter-spacing="0.8">PUT IT TO WORK.</text>
+<polyline points="62,406 1218,406" fill="none" stroke="#514132" stroke-width="1" stroke-linejoin="round"/>
+<text x="64" y="444" fill="#C5B29E" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="0">Ideas from the field notes. Skills you can put to work.</text>
+<text x="897" y="444" fill="#C5B29E" font-family="Consolas, monospace" font-size="12" letter-spacing="0.7">AGENT SKILLS / CLAUDE PLUGINS</text>
+</svg>

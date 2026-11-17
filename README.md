@@ -1,6 +1,26 @@
-# skillz
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/banner-light.png">
+    <img src=".github/assets/banner-light.png" width="100%" alt="skillz — the AI Anonymous skill collection by JABSystems. A little know-how. A lot of possibility.">
+  </picture>
+</p>
 
-Agent Skills by [JABSystems](https://jabsystems.io).
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-B07A4F?style=flat-square" alt="License: MIT"></a>
+  <a href="https://agentskills.io"><img src="https://img.shields.io/badge/format-Agent%20Skills-8B5E3C?style=flat-square" alt="Format: Agent Skills"></a>
+  <a href="#as-a-plugin"><img src="https://img.shields.io/badge/Claude-plugin%20marketplace-D97757?style=flat-square" alt="Claude plugin marketplace"></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/skills-1-6E5646?style=flat-square" alt="Skills: 1"></a>
+</p>
+
+<p align="center">
+  <a href="#skills">Skills</a> ·
+  <a href="#install">Install</a> ·
+  <a href="#example-while-its-still-hot">Example</a> ·
+  <a href="#license">License</a>
+</p>
+
+The skill collection from [AI Anonymous](https://jabsystems.io/ai-anonymous/), by [JABSystems](https://jabsystems.io). Ideas from the field notes, turned into skills you can put to work.
 
 An Agent Skill is a folder with a `SKILL.md` file that teaches an AI agent how to do one kind of task well. The skills here follow the open [Agent Skills](https://agentskills.io) format. This repo is also a Claude plugin marketplace, so each skill installs as a plugin.
 
