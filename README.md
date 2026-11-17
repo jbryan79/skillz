@@ -42,7 +42,7 @@ The method was written down while making this piece. It is a latte seen from abo
 
 In this image and in the clip, each word is drawn as a mark instead of readable text, so the essay itself stays private.
 
-[Watch it pour (60-second MP4)](examples/art-from-writing/while-its-still-hot.mp4)
+The pour takes 60 seconds. [Download the clip (MP4, 10 MB)](examples/art-from-writing/while-its-still-hot.mp4); GitHub does not play a file this size in the page.
 
 ## Install
 
