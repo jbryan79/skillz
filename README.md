@@ -2,13 +2,13 @@
 
 Agent Skills by [JABSystems](https://jabsystems.io).
 
-An Agent Skill is a folder with a `SKILL.md` file that teaches an AI agent how to do one kind of task well. The skills here follow the open [Agent Skills](https://agentskills.io) format.
+An Agent Skill is a folder with a `SKILL.md` file that teaches an AI agent how to do one kind of task well. The skills here follow the open [Agent Skills](https://agentskills.io) format. This repo is also a Claude plugin marketplace, so each skill installs as a plugin.
 
 ## Skills
 
 | Skill | Version | What it does |
 | --- | --- | --- |
-| [art-from-writing](art-from-writing/SKILL.md) | 1.0 | Turns a piece of writing into an original artwork of how it feels. |
+| [art-from-writing](plugins/art-from-writing/skills/art-from-writing/SKILL.md) | 1.0 | Turns a piece of writing into an original artwork of how it feels. |
 
 ## art-from-writing
 
@@ -32,7 +32,7 @@ Share an essay, a letter, a poem, a speech or a set of vows, and say as much or 
 6. Look at it, and fix what you see.
 7. Hand it over with a short note.
 
-The full instructions are in [`art-from-writing/SKILL.md`](art-from-writing/SKILL.md).
+The full instructions are in [`SKILL.md`](plugins/art-from-writing/skills/art-from-writing/SKILL.md).
 
 ### Example: *While It's Still Hot*
 
@@ -46,17 +46,32 @@ The pour takes 60 seconds. [Download the clip (MP4, 10 MB)](examples/art-from-wr
 
 ## Install
 
-### Claude (web or desktop app)
+### As a plugin
 
-1. Download the `art-from-writing` folder and zip it, so that the folder itself is the top level of the ZIP.
-2. In Claude, open **Customize > Skills** and upload the ZIP as a new skill.
+This repo is a Claude plugin marketplace named `skillz`. The plugin is named `art-from-writing`.
+
+**Claude app.** Open **Customize > Plugins**, choose **Add marketplace**, enter `jbryan79/skillz`, then install **Art from Writing**.
+
+**Claude Code.** Run these two commands in your shell. They are the same in bash and PowerShell.
+
+```bash
+claude plugin marketplace add jbryan79/skillz
+claude plugin install art-from-writing@skillz
+```
+
+### As a single skill
+
+The skill folder is `plugins/art-from-writing/skills/art-from-writing`.
+
+**Claude app.**
+
+1. Download that folder and zip it, so that the folder itself is the top level of the ZIP.
+2. Open **Customize > Skills** and upload the ZIP as a new skill.
 3. Make sure code execution is turned on. Skills need it.
 
 Claude's help center has the current steps: [Use skills in Claude](https://support.claude.com/en/articles/12512180).
 
-### Claude Code
-
-Copy the `art-from-writing` folder into your personal skills folder:
+**Claude Code.** Copy that folder into your personal skills folder:
 
 - macOS and Linux: `~/.claude/skills/`
 - Windows: `C:\Users\<you>\.claude\skills\`
@@ -69,11 +84,21 @@ Share a piece of writing and say "create what you feel."
 
 ```
 skillz/
-├── art-from-writing/
-│   ├── SKILL.md        the skill
-│   └── LICENSE.txt     MIT license, so it travels with the skill
+├── .claude-plugin/
+│   └── marketplace.json        lists the plugins in this repo
+├── plugins/
+│   └── art-from-writing/       the plugin
+│       ├── .claude-plugin/
+│       │   └── plugin.json
+│       ├── assets/
+│       │   └── icon.png        the plugin's icon
+│       ├── README.md
+│       └── skills/
+│           └── art-from-writing/
+│               ├── SKILL.md    the skill
+│               └── LICENSE.txt MIT license, so it travels with the skill
 ├── examples/
-│   ├── README.md       license note for the example artwork
+│   ├── README.md               license note for the example artwork
 │   └── art-from-writing/
 │       ├── while-its-still-hot.jpg
 │       └── while-its-still-hot.mp4
@@ -87,6 +112,6 @@ Created by [JABSystems](https://jabsystems.io) with Claude, November 2026.
 
 ## License
 
-The skills and this README are released under the [MIT License](LICENSE), copyright 2026 JABSystems.
+The skills, the plugin and this README are released under the [MIT License](LICENSE), copyright 2026 JABSystems.
 
-The example artwork in [`examples/`](examples/) is not covered by that license. All rights reserved.
+The example artwork in [`examples/`](examples/) and the plugin's icon, which is a detail of the same piece, are not covered by that license. All rights reserved.

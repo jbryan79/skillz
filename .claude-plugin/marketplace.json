@@ -1,0 +1,15 @@
+{
+  "name": "skillz",
+  "description": "Agent Skills by JABSystems, packaged as Claude plugins",
+  "owner": {
+    "name": "JABSystems",
+    "url": "https://jabsystems.io"
+  },
+  "plugins": [
+    {
+      "name": "art-from-writing",
+      "source": "./plugins/art-from-writing",
+      "description": "Turn a piece of writing into an original artwork of how it feels."
+    }
+  ]
+}

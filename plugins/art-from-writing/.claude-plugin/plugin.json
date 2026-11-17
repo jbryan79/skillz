@@ -1,0 +1,16 @@
+{
+  "name": "art-from-writing",
+  "displayName": "Art from Writing",
+  "version": "1.0.0",
+  "description": "Turn a piece of writing into an original artwork of how it feels: a living page that performs and then rests, plus a still.",
+  "author": {
+    "name": "JABSystems",
+    "url": "https://jabsystems.io"
+  },
+  "homepage": "https://github.com/jbryan79/skillz",
+  "repository": "https://github.com/jbryan79/skillz",
+  "license": "MIT",
+  "keywords": ["art", "writing", "generative-art", "creative-coding", "canvas", "essay", "letter", "poem"],
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://github.com/jbryan79/skillz/issues"
+}
